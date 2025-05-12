@@ -1,0 +1,27 @@
+# 🧠 Decision Tree Navigator - VIRTUNEXA Edition
+
+An interactive, responsive decision tree application designed for troubleshooting and learning purposes. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, it features animated UI transitions and a sliding "VIRTUNEXA" banner for a modern, engaging experience.
+
+---
+
+## 🚀 Features
+
+- 🌐 Clean, modern UI with gradient background
+- 🧭 Dynamic decision tree navigation
+- ✅ Smooth transitions and responsive design
+- 🏷️ Animated sliding "VIRTUNEXA" banner
+- 💡 Easy to expand with custom decision trees
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5 & CSS3
+- Bootstrap 5
+- JavaScript (Vanilla)
+- Custom animations with CSS
+
+---
+
+## 📁 File Structure
+
